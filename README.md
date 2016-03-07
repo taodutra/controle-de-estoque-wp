@@ -1,6 +1,6 @@
 # Controle de estoque WP
 
-Versão do CRUD de **Controle de estoque** feito em WP.
+Versão do CRUD de **Controle de estoque** feita em WP.
 
 ### Banco de dados
 
@@ -40,4 +40,5 @@ Para manter as características bases do sistema (URL, título do site, entre ou
 Para acessar o admin, basta usar os dados abaixo.
 
 **Login**: admin
+
 **Senha**: controle_estoque_wp
